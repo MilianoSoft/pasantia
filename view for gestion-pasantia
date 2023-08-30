@@ -1,0 +1,32 @@
+#VISTAS  BASICAS PARA EL SISTEMA DE GESTION DE PASANTIA
+
+
+1. Vista de Estudiantes y su Información:
+   Esta vista podría unir las tablas `Estudiante`, `Usuario` y otras para mostrar información relevante sobre cada estudiante, incluyendo su nombre, apellido, correo electrónico y universidad.
+
+2. Vista de Pasantías Disponibles:
+   Una vista que muestre las pasantías disponibles en el sistema, incluyendo detalles como el título, la descripción, el requisito de trimestre, la duración y el estado.
+
+3. Vista de Solicitud de Pasantías:
+   Una vista que muestre las solicitudes de pasantías realizadas por los estudiantes, junto con detalles de la pasantía solicitada y su estado.
+
+4. Vista de Actividades de Usuarios:
+   Una vista que muestre registros de actividades realizadas por los usuarios, incluyendo detalles como el nombre del usuario, la actividad realizada, la fecha y la hora.
+
+5. Vista de Empresas de Pasantías:
+   Una vista que muestre información sobre las empresas que ofrecen pasantías, incluyendo el nombre, la ubicación y el estado.
+
+6. Vista de Resumen de Estudiantes por Carrera:
+   Una vista que muestre un resumen de cuántos estudiantes están inscritos en cada carrera, divididos por recinto y universidad.
+
+7. Vista de Recintos y Carreras por Universidad:
+   Una vista que muestre los recintos y las carreras disponibles en cada universidad, proporcionando una visión general de las opciones académicas.
+
+8. Vista de Estudiantes por Recinto y Carrera:
+   Una vista que proporcione una visión general de cuántos estudiantes hay en cada recinto y en cada carrera.
+
+9. Vista de Pasantías por Carrera:
+   Una vista que muestre las pasantías disponibles en función de la carrera, incluyendo detalles relevantes.
+
+10. Vista de Estudiantes Aprobados en Pasantías:
+    Una vista que muestre los estudiantes que han sido aprobados para realizar una pasantía, junto con detalles de la pasantía.
