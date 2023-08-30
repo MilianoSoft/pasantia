@@ -1,0 +1,37 @@
+# PROCEDIMIENTOS ALMACENADOS BASICOS PARA EL SISTEMA
+
+Registrar Usuario:
+Un procedimiento para insertar un nuevo usuario en la base de datos, junto con su información correspondiente.
+
+Registrar Estudiante:
+Un procedimiento para registrar a un nuevo estudiante en el sistema, incluyendo su información personal, recinto y carrera.
+
+Registrar Pasantía:
+Un procedimiento para registrar una nueva pasantía en la base de datos, con todos sus detalles relevantes.
+
+Registrar Solicitud de Pasantía:
+Un procedimiento para que un estudiante pueda solicitar una pasantía específica.
+
+Aprobar/Rechazar Solicitud de Pasantía:
+Procedimientos para que la universidad pueda aprobar o rechazar las solicitudes de pasantía realizadas por los estudiantes.
+
+Actualizar Información de Estudiante:
+Un procedimiento para que un estudiante pueda actualizar su información personal, recinto, carrera, etc.
+
+Actualizar Información de Pasantía:
+Un procedimiento para actualizar los detalles de una pasantía existente.
+
+Listar Pasantías Disponibles:
+Un procedimiento que devuelva una lista de las pasantías disponibles en función de ciertos criterios.
+
+Generar Reporte de Estudiantes por Carrera:
+Un procedimiento que genere un reporte con información sobre la cantidad de estudiantes por carrera y recinto.
+
+Generar Reporte de Actividades de Usuarios:
+Un procedimiento que genere un reporte con las actividades realizadas por los usuarios en un período de tiempo.
+
+Generar Reporte de Pasantías Aprobadas:
+Un procedimiento que genere un reporte con información sobre las pasantías aprobadas, incluyendo los detalles de los estudiantes y las empresas.
+
+Listar Universidades y Recintos:
+Un procedimiento que liste las universidades y sus recintos correspondientes.
